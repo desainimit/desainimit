@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=desainimit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://res.cloudinary.com/practicaldev/image/fetch/s--NUSRQ-3J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redd.it/5iphhycu0io11.png' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=desainimit&icon=2&color=1)](https://visitcount.itsvg.in)
