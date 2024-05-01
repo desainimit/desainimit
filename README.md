@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on IEEE SOU SB<br>🤝 I’m looking for help with Development<br>🌱 I’m currently learning MERN STACK<br>💬 Ask me about
+👯 I’m looking to collaborate on Back-End<br>🤝 I’m looking for help with Development<br>🌱 I’m currently learning MERN STACK<br>💬 Ask me about Javascript, NodeJs, React
 
 
 ## 🌐 Socials:
